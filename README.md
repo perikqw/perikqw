@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @perikqw 
-- 📫 my ig is per1k_qw
+- My ig is per1k_qw
+- Starting with coding :)
 
 <!---
 perikqw/perikqw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
